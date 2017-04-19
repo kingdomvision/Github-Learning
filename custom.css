@@ -1,0 +1,16 @@
+@import 'https://fonts.googleapis.com/css?family=Josefin+Slab';
+.fa {
+	vertical-align: middle;
+}
+.modal-open .modal {
+	display: flex;
+}
+.modal {
+	text-align: center;
+	cursor: default;
+	overflow: auto;
+	top: 58px;
+	display: flex !important;
+	align-items: center;
+	justify-content: center;
+}
